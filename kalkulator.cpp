@@ -14,7 +14,7 @@ while(cin>>znak>>a>>b){
         wynik=a-b;
         break;
 
-        case '':
+        case '*':
         wynik=a*b;
         break;
 
